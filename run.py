@@ -27,7 +27,7 @@ def findAdmin():
 		except URLError as e:
 			continue
 		else:
-			print "from tkinter import *
+			print from tkinter import *
 root = Tk()
 w = Label(root, text="FOUND!"),
 FG = "lime",
