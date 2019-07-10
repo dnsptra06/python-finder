@@ -28,11 +28,7 @@ def findAdmin():
 			continue
 		else:
 			 from tkinter import *
-root = Tk()
-print "w = Label(root, text="FOUND!"),
-FG = "lime",
-w.pack()
-root.mainloop() => ",req_link
+print "(root, text="FOUND!" fg="red") => ",req_link
 
 def Credit():
 	Space(9); print "#####################################"
