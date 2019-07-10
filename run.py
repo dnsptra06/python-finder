@@ -27,7 +27,12 @@ def findAdmin():
 		except URLError as e:
 			continue
 		else:
-			print "FOUND => ",req_link
+			print "from tkinter import *
+root = Tk()
+w = Label(root, text="FOUND!"),
+FG = "lime",
+w.pack()
+root.mainloop() => ",req_link
 
 def Credit():
 	Space(9); print "#####################################"
