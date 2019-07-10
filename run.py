@@ -28,7 +28,7 @@ def findAdmin():
 			continue
 		else:
 			 from tkinter import *
-print "(root, text="FOUND!" fg="red") => ",req_link
+print "(root, text="FOUND! fg="red"") => ",req_link
 
 def Credit():
 	Space(9); print "#####################################"
